@@ -16,7 +16,7 @@ In one of the later stages, we will be extracting numeric features from our Twit
 
 Let’s first read our data and load the necessary libraries.
 
-# Story Generation and Visualization from Tweets
+# Visualization
 
 In this section, we will explore the cleaned tweets text. Exploring and visualizing data, no matter whether its text or any other data, is an essential step in gaining insights. Do not limit yourself to only these methods told in this tutorial, feel free to explore the data as much as possible.
 
@@ -28,6 +28,6 @@ How many hashtags are there in a tweet?
 Which trends are associated with my dataset?
 Which trends are associated with either of the sentiments? Are they compatible with the sentiments?
 
-# Conclusionm
+# Conclusion
 
 We learned how to approach a sentiment analysis problem. We started with preprocessing and exploration of data. Then we extracted features from the cleaned text using Bag-of-Words.
